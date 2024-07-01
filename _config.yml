@@ -1,2 +1,12 @@
 theme: minima
 title: 星にゃーんのメモ
+author:
+  name: Yuya KONO
+  email: takohati0821@gmail.com
+description: >
+  雑多なメモや日記。
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/takoeight0821" }
+    - { platform: x, user_url: "https://x.com/takoeight0821" }
