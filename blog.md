@@ -1,4 +1,6 @@
-# 日記
+---
+title: 日記
+---
 
 <ul>
   {% for post in site.posts %}
