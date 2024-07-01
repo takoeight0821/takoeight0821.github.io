@@ -17,5 +17,9 @@
     "_site/**": true
   },
   "files.insertFinalNewline": true,
-  "markdown.styles": [".vscode/custom-tag-style.css"]
+  "markdown.styles": [".vscode/custom-tag-style.css"],
+ 	"foam.openDailyNote.directory": "_posts",
+ 	"foam.openDailyNote.filenameFormat": "yyyy-mm-dd-'daily-note'",
+ 	"foam.openDailyNote.fileExtension": "md",
+	"foam.openDailyNote.titleFormat": "fullDate",
 }

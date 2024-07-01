@@ -1,2 +1,3 @@
-# takoeight0821.github.io
-https://takoeight0821.github.io
+# 星にゃーんのメモ
+
+- [[Blog]]
